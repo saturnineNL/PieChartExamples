@@ -1,0 +1,14 @@
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\bin\Debug\PieChartExamples.exe.config
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\bin\Debug\PieChartExamples.exe
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\bin\Debug\PieChartExamples.pdb
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.csprojResolveAssemblyReference.cache
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\MainWindow.g.cs
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\App.g.cs
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples_MarkupCompile.cache
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples_MarkupCompile.lref
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\MainWindow.baml
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.g.resources
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.Properties.Resources.resources
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.csproj.GenerateResource.Cache
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.exe
+c:\users\mr\documents\visual studio 2015\Projects\PieChartExamples\PieChartExamples\obj\Debug\PieChartExamples.pdb
